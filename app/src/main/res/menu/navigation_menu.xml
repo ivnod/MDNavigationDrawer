@@ -22,15 +22,15 @@
     <item android:title="sub header">
         <menu>
             <item
-                android:id="all_mail"
+                android:id="@+id/all_mail"
                 android:icon="@drawable/allmail"
                 android:title="all mail"></item>
             <item
-                android:id="delete"
+                android:id="@+id/delete"
                 android:icon="@drawable/delete"
                 android:title="delete"></item>
             <item
-                android:id="spam"
+                android:id="@+id/spam"
                 android:icon="@drawable/spam"
                 android:title="spam"></item>
         </menu>
